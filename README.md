@@ -1,16 +1,79 @@
 # Data Structures and Algorithms
 
-## What are Data Structures and Algorithms
+## Data Structures
 
-## Why do we learn Data Structures and Algorithms
+### Queues
 
-## What are Algorithms design techniques
+- Stack
+- Queue
+- Deque
+- Priority Queue
 
-## How to describe the efficiency
+### List
 
-## Data Structure
+- Linked List
+- Skip List
+
+### Tree
+
+- Tree
+- Binary Tree
+- Binary Search Tree
+- B-Tree
+
+### Hashing
+
+- Hash Table
+
+### Sets
+
+- Bloom Filter
+- Hash Set
+- Multiset
+- Ordered Set
+
+### Graphs
+
+- Graphs
+- Heaps
+- Vectors
+- Hash Tables
 
 ## Algorithms
+
+### Searching
+
+- Linear Search
+- Binary Search
+- Binary Search Tree
+- Breadth-First Search
+- Depth-First Search
+
+### Sorting
+
+- Merge Sort
+- Quick Sort
+- Insertion Sort
+- Selection Sort
+- Bubble Sort
+- Heap Sort
+
+### Compression
+
+- Huffman Coding
+
+### Puzzles
+
+- Two-Sum Problem
+- Three-Sum Problem
+- Monty Hall Problem
+- Egg Drop Problem
+- Closest Pair
+
+### More
+
+- Count Occurrences
+- Select Minimum/Maximum
 
 ### References 
 Swift Algorithm Club
