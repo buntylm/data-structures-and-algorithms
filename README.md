@@ -2,6 +2,11 @@
 
 ## Data Structures
 
+### Array
+
+#### Problem
+- Reverse an array
+
 ### Queues
 
 - Stack
