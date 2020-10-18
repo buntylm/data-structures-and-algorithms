@@ -5,7 +5,7 @@
 ### Array
 
 #### Problem
-- [Reverse an array](https://github.com/buntylm/data-structures-and-algorithms/blob/master/Array/Reverse%20the%20array.playground/Contents.swift)
+- [Reverse an array (Iterative and recursive approach)](https://github.com/buntylm/data-structures-and-algorithms/blob/master/Array/Reverse%20the%20array.playground/Contents.swift)
 
 ### Queues
 
