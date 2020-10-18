@@ -38,9 +38,9 @@ extension Array {
     }
 }
 
-var intArrIterative = [1,2,3,4,5]
-assert(intArrIterative.reverseArrUsingIterativeApproach() == intArrIterative.reversed())
+var arr1 = [1,2,3,4,5]
+assert(arr1.reverseArrUsingIterativeApproach() == arr1.reversed())
 
-var intArrRecursive = [1,2,3,4,5]
-intArrRecursive.reverseArrUsingRecursiveApproach(arr: &intArrRecursive, startIndex: 0, endIndex: intArrRecursive.count - 1)
-assert(intArrRecursive == [5,4,3,2,1])
+var arr2 = [1,2,3,4,5]
+arr2.reverseArrUsingRecursiveApproach(arr: &arr2, startIndex: 0, endIndex: arr2.count - 1)
+assert(arr2 == [5,4,3,2,1])
